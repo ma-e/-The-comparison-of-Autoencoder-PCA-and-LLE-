@@ -5,7 +5,7 @@
 # Experiments 
 
 ## Sources
-A face picture. 
+Any of a face picture. 
 
 ## Steps
 #### step 1 Convert it to gray 
