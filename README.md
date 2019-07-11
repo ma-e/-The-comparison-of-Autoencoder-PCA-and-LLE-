@@ -25,13 +25,13 @@ Any of a face picture.
 
 ### Autoencoder 
 
-#### 5000 epochs, 8 dimensions, image size '''28*28''', Error: 0.27079198806833412 
+#### 5000 epochs, 8 dimensions, image size 28*28, Error: 0.27079198806833412 
 
 ![alt text][logo]
 
 [logo]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/Autoencoder%2028*28.png 
 
-#### 5000 epochs, 8 dimensions, image size '''128*128''', Error: 0.4015 
+#### 5000 epochs, 8 dimensions, image size 128*128, Error: 0.4015 
 
 ![alt text][logo]
 
