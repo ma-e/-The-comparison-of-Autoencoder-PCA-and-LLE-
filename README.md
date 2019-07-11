@@ -1,6 +1,6 @@
-Spring 2018 CS535 Final Project: The comparison of Autoencoder, PCA and LLE 
+###### Spring 2018 CS535 Final Project: The comparison of Autoencoder, PCA and LLE 
 
-New Mexico Highlands University, Computer Science 
+###### New Mexico Highlands University, Computer Science 
 
 # Experiments 
 
