@@ -90,11 +90,11 @@ Closest neighbors(c.n.),and then looking for a low-dimensional representation of
 
 ### Why might face data be reduced to such low dimensionality D from the original D? 
 
-(1)The pixels on the image borders are almost always white, so you could completely drop these pixels from the training set without losing much information. 
+* The pixels on the image borders are almost always white, so you could completely drop these pixels from the training set without losing much information. 
 
-(2)A lot of the pixels are utterly unimportant for the classification tasks. 
+* A lot of the pixels are utterly unimportant for the classification tasks. 
 
-(3) Moreover, two neighboring pixels are often highly correlated, so we can  merge them into a single pixel (e.g., by taking the mean of the two pixel intensities), we will not lose much information. 
+* Moreover, two neighboring pixels are often highly correlated, so we can  merge them into a single pixel (e.g., by taking the mean of the two pixel intensities), we will not lose much information. 
 
   
 
