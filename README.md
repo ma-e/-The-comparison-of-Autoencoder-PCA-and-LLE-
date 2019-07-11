@@ -57,7 +57,7 @@ Any of a face picture.
 
  ![alt text][128r]
  
-[128r]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20128*128.png 
+[128r]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20128*128%20Reconstructed.png 
 
 ### LLE (Locally Linear Embedding) 
 
