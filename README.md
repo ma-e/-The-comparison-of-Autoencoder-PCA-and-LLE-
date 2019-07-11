@@ -26,26 +26,35 @@ A face picture.
 Autoencoder 
 
 5000 epochs, 8 dimensions, image size 28*28, Error: 0.27079198806833412 
+![alt text][logo]
 
- 
+[logo]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/Autoencoder%2028*28.png "Logo Title Text 2"
+
 
 5000 epochs, 8 dimensions, image size 128*128, Error: 0.4015 
+![alt text][logo]
 
+[logo]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/Autoencoder%20128*128.png "Logo Title Text 2"
  
 
 PCA (Principal Components Analysis) 
 
 Images size 28 * 28, dimension 8, Error: 0.5296762000485804 
+![alt text][logo]
 
- 
+[logo]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20reconstructed.png "Logo Title Text 2"
 
- 
+![alt text][logo]
+
+[logo]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20reconstructed.png "Logo Title Text 2"
 
  
 
 Image size 128*128, dimension 8, Error: 0.063106548868753401 
 
- 
+ ![alt text][logo]
+
+[logo]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20128*128.png "Logo Title Text 2"
 
 LLE (Locally Linear Embedding) 
 
