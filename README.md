@@ -28,11 +28,13 @@ A face picture.
 #### 5000 epochs, 8 dimensions, image size '''28*28''', Error: 0.27079198806833412 
 
 ![alt text][logo]
+
 [logo]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/Autoencoder%2028*28.png 
 
 #### 5000 epochs, 8 dimensions, image size '''128*128''', Error: 0.4015 
 
 ![alt text][logo]
+
 [logo]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/Autoencoder%20128*128.png
 
 ### PCA (Principal Components Analysis) 
@@ -40,29 +42,36 @@ A face picture.
 #### Images size 28 * 28, dimension 8, Error: 0.5296762000485804 
 
 ![alt text][original]
+
 [original]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20original.png
 
 ![alt text][recontructed]
+
 [recontructed]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20reconstructed.png 
 
 #### Image size 128*128, dimension 8, Error: 0.063106548868753401 
 
  ![alt text][128o]
+ 
 [128o]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20128*128%20Original.png 
 
  ![alt text][128r]
+ 
 [128r]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/PCA%20128*128.png 
+
 ### LLE (Locally Linear Embedding) 
 
 #### 100 * 784 (left) , Reconstruction error: 0.0479929 
 
  ![alt text][p2]
+ 
 [p2]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/LLE%2028*28.png 
 
 
 #### 100*16384(right), Reconstruction error: 1.93334e-06 
 
  ![alt text][p1]
+ 
 [p1]: https://github.com/ma-e/The-comparison-of-Autoencoder-PCA-and-LLE/blob/master/img/LLE%20128*128.png 
   
 
