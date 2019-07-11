@@ -10,7 +10,7 @@ Any of a face picture.
 ## Steps
 #### step 1 Convert it to gray 
 #### step 2 Resize it to ```28*28``` and ```128*128```
-#### step 3 Generate 100 different images for each image of step 2, 
+#### step 3 Generate 100 different images for each image of step 2 
 ###### a. 25 different noisy values 
 ###### b. 25 different rotating degrees
 ###### c. 25 different translation degrees
