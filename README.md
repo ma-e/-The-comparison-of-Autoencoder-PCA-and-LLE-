@@ -4,7 +4,20 @@ New Mexico Highlands University, Computer Science
 
 # Experiments 
 
-In this project, i took my face picture and convert it to gray, resize it into size 28*28 and 128*128. After this, i created 100 images based on each of them, which including 25 different noisy values, 25 different rotating degrees, 25 translation degrees, and 25 scale degrees. Finally i flatten those 200 images into a 2D array, which are 100*784 and 100*16834. Then i applied each of them to Autoencoder, PCA and LLE, plot the original images and reconstructed images,  therefore, the visualize images will help us to find out the different between  each of them. 
+## Sources
+A face picture. 
+
+## Steps
+#### step 1 Convert it to gray 
+#### step 2 Resize it to ```28*28``` and ```128*128```
+#### step 3 Generate 100 different images for each image of step 2, 
+###### a. 25 different noisy values 
+###### b. 25 different rotating degrees
+###### c. 25 different translation degrees
+###### d. 25 different scale degrees
+#### step 4 Flatten all images into a 2D array, which are ```100*784``` and ```100*16834```
+#### step 5 Applied each of them to Autoencoder, PCA and LLE
+#### step 6 Plot the original images and reconstructed images
 
  
 
